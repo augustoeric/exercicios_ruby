@@ -1,1 +1,1 @@
-elementos = ["agua", "fogo", "terra", "ar"]
+elementos = ["fogo", "agua"]
