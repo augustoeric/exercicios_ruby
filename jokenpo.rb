@@ -1,0 +1,1 @@
+opcoes = ["pedra", "papel", "tesoura"]
