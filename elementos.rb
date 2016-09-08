@@ -1,0 +1,1 @@
+elementos = ["agua", "fogo", "terra", "ar"]
